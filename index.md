@@ -2,7 +2,7 @@
 
 **Contact**: Thomas Klammsteiner, PhD, Dept. of Microbiology, LFU Innsbruck [[mail]](mailto:thomas.klammsteiner@uibk.ac.at)  
 
-[[Deutsche Version]](#deutsch) | 
+[[**Deutsche Version**]](#deutsch) | 
 [[Website]](https://www.fromwastetofeed.com) | 
 [[Instagram]](https://www.instagram.com/fromwastetofeed) | 
 [[Twitter]](https://www.twitter.com/fromwastetofeed)  
@@ -82,7 +82,7 @@ Involved people: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus S
 
 **Kontakt**: Thomas Klammsteiner, PhD, Inst. für Mikrobiologie, LFU Innsbruck [[mail]](mailto:thomas.klammsteiner@uibk.ac.at)  
 
-[[English version]](#english) | 
+[[**English version**]](#english) | 
 [[Website]](https://www.fromwastetofeed.com) | 
 [[Instagram]](https://www.instagram.com/fromwastetofeed) | 
 [[Twitter]](https://www.twitter.com/fromwastetofeed)  
