@@ -1,12 +1,6 @@
-### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste
+# Deutsch
 
-**Project description**: 
-
-**Funding**: Austrian Science Fund (FWF)
-
-**Period**: 
-
-**Workflow**:
+[[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
 ## Materialien
 
@@ -22,7 +16,10 @@
 
 Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjwg/sixleggedlivestock_material.zip?dl=0) herunter (ca. 10 mb)
 
-# Materials
+
+# English
+
+## Materials
 
 1. [Poster](https://www.dropbox.com/s/02p3c9d23oh5nm7/1_poster.pdf?dl=0) of the 5th Austrian Citizen Science Conference (German)  
 1. [Workshop flyer](https://www.dropbox.com/s/t367257m9sguqma/2_flyer.pdf?dl=0) (German)  
