@@ -36,7 +36,7 @@
     </p>
    </div>
   <div class="column">
-   <img src="https://github.com/tklammsteiner/sixleggedlivestock/tree/main/media/cohmila.gif" alt="COHMILA animation" width=100%>
+   <img src="/media/cohmila.gif" alt="COHMILA animation" width=100%>
   </div>
 </div> 
 </body>
@@ -108,7 +108,7 @@ Das Projekt wurde druch
 	</p>
    </div>
   <div class="column">
-   <img src="https://github.com/tklammsteiner/sixleggedlivestock/tree/main/media/cohmila.gif" alt="COHMILA animation" width=100%>
+   <img src="/media/cohmila.gif" alt="COHMILA animation" width=100%>
   </div>
 </div> 
 </body>
