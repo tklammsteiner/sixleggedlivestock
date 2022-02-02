@@ -5,7 +5,7 @@
 [[Instagram]](https://www.instagram.com/fromwastetofeed) | 
 [[Twitter]](https://www.twitter.com/fromwastetofeed)  
 
-[[english version]](https://tklammsteiner.github.io/sixleggedlivestock/index_en.md)  
+[[english version]](#english)  
 
 ![picture of rearing unit model](/media/rearing_unit.png)  
 
@@ -79,8 +79,7 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
 
 ***
 
-# <a name="english"></a>Six-legged Livestock
-***
+# <a name="english"></a><a href="https://tklammsteiner.github.io/sixleggedlivestock/">Six-legged livestock</a>
 
 <br/>
 <br/>
