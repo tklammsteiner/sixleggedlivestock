@@ -36,7 +36,7 @@
     </p>
    </div>
   <div class="column">
-   <img src="/media/cohmila.gif" alt="COHMILA animation" width=100%>
+   <img src="/media/cohmila.gif" alt="COHMILA animation">
   </div>
 </div> 
 </body>
@@ -108,7 +108,7 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
 	</p>
    </div>
   <div class="column">
-   <img src="/media/cohmila.gif" alt="COHMILA animation" width=100%>
+   <img src="/media/cohmila.gif" alt="COHMILA animation">
   </div>
 </div> 
 </body>
