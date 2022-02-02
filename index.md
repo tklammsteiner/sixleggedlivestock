@@ -76,6 +76,8 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
 <br/>
 <br/>
 
+![picture of rearing unit model](/media/rearing_unit.png)  
+
 [[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
 ## About the project
