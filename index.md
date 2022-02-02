@@ -5,11 +5,38 @@
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
 ## Über das Projekt
-Im Rahmen dieses Projekts organisierten wir eine Reihe von Workshops für alle, die sich für die Nutzung von Insekten als Mittel zur Abfallverwertung und Tierfutterproduktion interessieren. Die Workshop-Teilnehmer waren eingeladen, ihre eigene Aufzuchtanlage für Larven der Schwarzen Soldatenfliege aus lasergeschnittenem Holz zu bauen. Etwa drei Wochen lang diente diese Aufzuchtstation als Zuhause für 200 Larven. Die darin lebenden Larven durften sich von Bioabfällen ernähren, sich weiterentwickeln, wertvollen Dünger produzieren und schließlich aus der Box in den angeschlossenen Sammelbehälter wandern, um dort einen trockenen und ruhigen Platz zum Verpuppen zu finden. Nach diesem Experiment konnten die Teilnehmer ihre Häuser zur Dekoration oder als alternativen Behälter für ihren Bioabfall wiederverwenden.  
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
-Während des Hausversuchs wurden die teilnehmenden Citizen Scientists angewiesen, die Art und Menge der Abfälle, die sie zur Fütterung ihrer Larven verwendeten, mit Hilfe der mitgelieferten elektronischen Feinwaage zu notieren. Gegen Ende des Larvenstadiums konnten die Teilnehmer den Erfolg der Verpuppung bewerten und die erzeugte Larvenbiomasse bestimmen, indem sie die Puppen, die aus der Box in den Sammelbehälter wanderten, wogen. Nach Abschluss des Experiments wurden die gesammelten Daten zusammen mit grundlegenden Informationen über die Versuchsumgebung zur weiteren Analyse an uns übermittelt.
-
-In einem weiterführenden Projekt gefördert von der Tiroler Wissenschaftsförderung (TWF) wurden gesammelte Daten und Proben der Citizen Scientists weiter analysiert und die daraus resultierenden Ergebnisse in einer frei zugänglichen Web-Applikation zusammengefasst: [**COHMILA**](https://tklammsteiner.shinyapps.io/cohmila-app)  
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+ <div class="row">
+  <div class="column">  
+  Im Rahmen dieses Projekts organisierten wir eine Reihe von Workshops für alle, die sich für die Nutzung von Insekten als Mittel zur Abfallverwertung und Tierfutterproduktion interessieren. Die Workshop-Teilnehmer waren eingeladen, ihre eigene Aufzuchtanlage für Larven der Schwarzen Soldatenfliege aus lasergeschnittenem Holz zu bauen. Etwa drei Wochen lang diente diese Aufzuchtstation als Zuhause für 200 Larven. Die darin lebenden Larven durften sich von Bioabfällen ernähren, sich weiterentwickeln, wertvollen Dünger produzieren und schließlich aus der Box in den angeschlossenen Sammelbehälter wandern, um dort einen trockenen und ruhigen Platz zum Verpuppen zu finden. Nach diesem Experiment konnten die Teilnehmer ihre Häuser zur Dekoration oder als alternativen Behälter für ihren Bioabfall wiederverwenden.  
+  Während des Hausversuchs wurden die teilnehmenden Citizen Scientists angewiesen, die Art und Menge der Abfälle, die sie zur Fütterung ihrer Larven verwendeten, mit Hilfe der mitgelieferten elektronischen Feinwaage zu notieren. Gegen Ende des Larvenstadiums konnten die Teilnehmer den Erfolg der Verpuppung bewerten und die erzeugte Larvenbiomasse bestimmen, indem sie die Puppen, die aus der Box in den Sammelbehälter wanderten, wogen. Nach Abschluss des Experiments wurden die gesammelten Daten zusammen mit grundlegenden Informationen über die Versuchsumgebung zur weiteren Analyse an uns übermittelt.
+  In einem weiterführenden Projekt gefördert von der Tiroler Wissenschaftsförderung (TWF) wurden gesammelte Daten und Proben der Citizen Scientists weiter analysiert und die daraus resultierenden Ergebnisse in einer frei zugänglichen Web-Applikation zusammengefasst: [**COHMILA**](https://tklammsteiner.shinyapps.io/cohmila-app)  
+  </div>
+  <div class="column">
+  TEST
+  </div>
+</div> 
+</body>
+</html>
 
 ## Ziele
 - Die breite Öffentlichkeit in die wissenschaftliche Forschung einbeziehen
@@ -35,9 +62,15 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 ## Danksagung
 Das Projekt wurde druch
 
+<br/>
+<br/>
+
 ***
 
 ***
+
+<br/>
+<br/>
 
 [[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
