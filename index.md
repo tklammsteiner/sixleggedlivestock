@@ -79,11 +79,40 @@ Das Projekt wurde druch
 [[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
 ## About the project
-Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. Participation and all necessary materials were free of charge and funded by a FWF Top Citizen Science grant. The workshop participants were invited to build their own black solider fly rearing unit out of laser-cut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
-During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic precision scale. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
-
-In a follow-up project funded by the Tiroler Wissenschaftsförderung (TWF), data and samples collected from the Citizen Scientists were further analyzed and the resulting findings were summarized in a freely accessible web application: [**COHMILA**](https://tklammsteiner.shinyapps.io/cohmila-app)  
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+  <div class="row">
+   <div class="column"> 
+    <p style="text-align:justify">
+	Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. Participation and all necessary materials were free of charge and funded by a FWF Top Citizen Science grant. The workshop participants were invited to build their own black solider fly rearing unit out of laser-cut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
+	During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic precision scale. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
+	In a follow-up project funded by the Tiroler Wissenschaftsförderung (TWF), data and samples collected from the Citizen Scientists were further analyzed and the resulting findings were summarized in a freely accessible web application: <a href="https://tklammsteiner.shinyapps.io/cohmila-app"><b>COHMILA</b></a>  
+	</p>
+   </div>
+  <div class="column">
+   <img src="https://github.com/tklammsteiner/sixleggedlivestock/tree/main/media/cohmila.gif" alt="COHMILA animation" width=100%>
+  </div>
+</div> 
+</body>
+</html>
 
 ## Aim
 - Involve the broad public in scientific research
