@@ -1,11 +1,10 @@
+<a name="deutsch"></a>
 **Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
 
-[[English version]](https://tklammsteiner.github.io/sixleggedlivestock/#about-the-project) | 
+[[English version]](#english) | 
 [[Website]](https://www.fromwastetofeed.com) | 
 [[Instagram]](https://www.instagram.com/fromwastetofeed) | 
 [[Twitter]](https://www.twitter.com/fromwastetofeed)  
-
-[[english version]](#english)  
 
 ![picture of rearing unit model](/media/rearing_unit.png)  
 
@@ -73,18 +72,14 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie die Tiroler Wissenschaftsförderung (TWF) gefördert. Dank gilt auch dem [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) für die Unterstützung beim Konzipieren des Zuchtsystems.
 
 <br/>
+
+***
+
 <br/>
-
-***
-
-***
 
 # <a name="english"></a><a href="https://tklammsteiner.github.io/sixleggedlivestock/">Six-legged livestock</a>
 
-<br/>
-<br/>
-
-[[Deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#über-das-projekt) | 
+[[Deutsche Version]](#deutsch) | 
 [[Website]](https://www.fromwastetofeed.com) | 
 [[Instagram]](https://www.instagram.com/fromwastetofeed) | 
 [[Twitter]](https://www.twitter.com/fromwastetofeed)  
