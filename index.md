@@ -1,8 +1,8 @@
 **Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
 
-![picture of rearing unit model](/media/rearing_unit.png)  
-
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
+
+![picture of rearing unit model](/media/rearing_unit.png)  
 
 ## Über das Projekt
 <html>
@@ -32,7 +32,7 @@
 
 	Während des Hausversuchs wurden die teilnehmenden Citizen Scientists angewiesen, die Art und Menge der Abfälle, die sie zur Fütterung ihrer Larven verwendeten, mit Hilfe der mitgelieferten elektronischen Feinwaage zu notieren. Gegen Ende des Larvenstadiums konnten die Teilnehmer den Erfolg der Verpuppung bewerten und die erzeugte Larvenbiomasse bestimmen, indem sie die Puppen, die aus der Box in den Sammelbehälter wanderten, wogen. Nach Abschluss des Experiments wurden die gesammelten Daten zusammen mit grundlegenden Informationen über die Versuchsumgebung zur weiteren Analyse an uns übermittelt.
 
-	In einem weiterführenden Projekt gefördert von der Tiroler Wissenschaftsförderung (TWF) wurden gesammelte Daten und Proben der Citizen Scientists weiter analysiert und die daraus resultierenden Ergebnisse in einer frei zugänglichen Web-Applikation zusammengefasst: <a href="https://tklammsteiner.shinyapps.io/cohmila-app"><b>COHMILA</b></a>
+	In einem weiterführenden Projekt gefördert von der Tiroler Wissenschaftsförderung (TWF) wurden gesammelte Daten und Proben der Citizen Scientists weiter analysiert und die daraus resultierenden Ergebnisse in einer frei zugänglichen Web-Applikation zusammengefasst: <a href="https://tklammsteiner.shinyapps.io/cohmila-app"><p style="font-size:20pt; font-family: 'bree serif'"><b>COHMILA</b></p></a>
     </p>
    </div>
   <div class="column">
@@ -76,9 +76,9 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
 <br/>
 <br/>
 
-![picture of rearing unit model](/media/rearing_unit.png)  
-
 [[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
+
+![picture of rearing unit model](/media/rearing_unit.png)  
 
 ## About the project
 <html>
@@ -106,7 +106,7 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
     <p style="text-align:justify">
 	Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. Participation and all necessary materials were free of charge and funded by a FWF Top Citizen Science grant. The workshop participants were invited to build their own black solider fly rearing unit out of laser-cut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
 	During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic precision scale. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
-	In a follow-up project funded by the Tiroler Wissenschaftsförderung (TWF), data and samples collected from the Citizen Scientists were further analyzed and the resulting findings were summarized in a freely accessible web application: <a href="https://tklammsteiner.shinyapps.io/cohmila-app"><b>COHMILA</b></a>  
+	In a follow-up project funded by the Tiroler Wissenschaftsförderung (TWF), data and samples collected from the Citizen Scientists were further analyzed and the resulting findings were summarized in a freely accessible web application: <a href="https://tklammsteiner.shinyapps.io/cohmila-app"><p style="font-size:20pt; font-family: 'bree serif'"><b>COHMILA</b></p></a>  
 	</p>
    </div>
   <div class="column">
