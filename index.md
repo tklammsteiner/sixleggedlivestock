@@ -2,6 +2,8 @@
 
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#about-the-project)  
 
+[[english version]](https://tklammsteiner.github.io/sixleggedlivestock/index_en.md)  
+
 ![picture of rearing unit model](/media/rearing_unit.png)  
 
 ## Über das Projekt
