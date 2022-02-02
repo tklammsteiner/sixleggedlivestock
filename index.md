@@ -68,7 +68,7 @@ Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchf
 
 Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjwg/sixleggedlivestock_material.zip?dl=0) herunter (ca. 10 mb)  
 
-Publikation zum Konzept der Schulworkshops: [Sustainability, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
+Publikation zum Konzept der Schulworkshops: [*Sustainability*, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
 
 ## Danksagung
 Beteiligte Personen: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus Schermer, Heinrich Pan, Suzanne Kapelari, Heribert Insam. Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie die Tiroler Wissenschaftsförderung (TWF) gefördert. Dank gilt auch dem [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) für die Unterstützung beim Konzipieren des Zuchtsystems.
@@ -149,7 +149,7 @@ Here you can freely download all necessary files and information material to con
 
 Download the [full package as .zip file](https://www.dropbox.com/s/3snub3kv7nm1rqo/sixleggedlivestock_materials.zip?dl=0) (ca. 10 mb)  
 
-Publication describing the concept of the school workshops: [Sustainability, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
+Publication describing the concept of the school workshops: [*Sustainability*, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
 
 ## Acknowledgements
 Involved people: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus Schermer, Heinrich Pan, Suzanne Kapelari, Heribert Insam. The project was funded by the Austrian Science Fund (TCS48) and the Tiroler Wissenschaftsförderung (TWF). Thanks also go to [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) for their support in designing the rearing system.
