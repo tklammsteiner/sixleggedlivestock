@@ -1,3 +1,5 @@
+**contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
+
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
 ## Über das Projekt
@@ -20,6 +22,8 @@ Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchf
 
 Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjwg/sixleggedlivestock_material.zip?dl=0) herunter (ca. 10 mb)
 
+
+# Danksagung
 <br/>  
 <br/>  
 <br/>  
@@ -100,7 +104,7 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 <br/>  
 <br/>  
 <br/>  
-[[deutsche version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
+[[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
 ## About the project
 Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. Participation and all necessary materials were free of charge and funded by a FWF Top Citizen Science grant. The workshop participants were invited to build their own black solider fly rearing unit out of laser-cut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
