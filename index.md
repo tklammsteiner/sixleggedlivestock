@@ -80,7 +80,7 @@ Involved people: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus S
 
 # <a name="deutsch"></a><a href="https://tklammsteiner.github.io/sixleggedlivestock/">Six-legged livestock</a>
 
-**Contact**: Thomas Klammsteiner, PhD, Inst. für Mikrobiologie, LFU Innsbruck [[mail]](mailto:thomas.klammsteiner@uibk.ac.at)  
+**Kontakt**: Thomas Klammsteiner, PhD, Inst. für Mikrobiologie, LFU Innsbruck [[mail]](mailto:thomas.klammsteiner@uibk.ac.at)  
 
 [[English version]](#english) | 
 [[Website]](https://www.fromwastetofeed.com) | 
