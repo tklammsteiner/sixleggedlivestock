@@ -1,8 +1,7 @@
-# Deutsch
-
-[[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
+[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
 ## Materialien
+Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchführung eines “**Six-legged Livestock**” Workshops heruntergeladen werden:  
 
 1. [Poster](https://www.dropbox.com/s/l256xpe82j7w81k/1_poster.pdf?dl=0) der 5. Österreichischen Citizen Science Konferenz  
 1. [Workshop Flyer](https://www.dropbox.com/s/g3tdvstj5jno69y/2_flyer.pdf?dl=0)  
@@ -96,9 +95,15 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 <br/>  
 <br/>  
 <br/>  
-# English
+[[deutsche version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
+
+# About the project
+Within this project, we  to organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. The workshop participants were invited to build their own black solider fly rearing unit out of lasercut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
+
+During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic balance. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
 
 ## Materials
+Here you can freely download all necessary files and information material to conduct your own “**Six-legged Livestock**” workshop:
 
 1. [Poster](https://www.dropbox.com/s/02p3c9d23oh5nm7/1_poster.pdf?dl=0) of the 5th Austrian Citizen Science Conference (German)  
 1. [Workshop flyer](https://www.dropbox.com/s/t367257m9sguqma/2_flyer.pdf?dl=0) (German)  
