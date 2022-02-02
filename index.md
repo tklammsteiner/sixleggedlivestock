@@ -1,4 +1,9 @@
-[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
+[[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
+
+## Über das Projekt
+Im Rahmen dieses Projekts organisierten wir eine Reihe von Workshops für alle, die sich für die Nutzung von Insekten als Mittel zur Abfallverwertung und Tierfutterproduktion interessieren. Die Workshop-Teilnehmer waren eingeladen, ihre eigene Aufzuchtanlage für Larven der Schwarzen Soldatenfliege aus lasergeschnittenem Holz zu bauen. Etwa drei Wochen lang diente diese Aufzuchtstation als Zuhause für 200 Larven. Die darin lebenden Larven durften sich von Bioabfällen ernähren, sich weiterentwickeln, wertvollen Dünger produzieren und schließlich aus der Box in den angeschlossenen Sammelbehälter wandern, um dort einen trockenen und ruhigen Platz zum Verpuppen zu finden. Nach diesem Experiment konnten die Teilnehmer ihre Häuser zur Dekoration oder als alternativen Behälter für ihren Bioabfall wiederverwenden.  
+
+Während des Hausversuchs wurden die teilnehmenden Citizen Scientists angewiesen, die Art und Menge der Abfälle, die sie zur Fütterung ihrer Larven verwendeten, mit Hilfe der mitgelieferten elektronischen Feinwaage zu notieren. Gegen Ende des Larvenstadiums konnten die Teilnehmer den Erfolg der Verpuppung bewerten und die erzeugte Larvenbiomasse bestimmen, indem sie die Puppen, die aus der Box in den Sammelbehälter wanderten, wogen. Nach Abschluss des Experiments wurden die gesammelten Daten zusammen mit grundlegenden Informationen über die Versuchsumgebung zur weiteren Analyse an uns übermittelt.
 
 ## Materialien
 Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchführung eines “**Six-legged Livestock**” Workshops heruntergeladen werden:  
@@ -97,10 +102,10 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 <br/>  
 [[deutsche version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
-# About the project
-Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. The workshop participants were invited to build their own black solider fly rearing unit out of lasercut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
+## About the project
+Within this project, we organized a series of workshops open for all people interested in the use of insects as a mean for waste degradation and animal feed production. Participation and all necessary materials were free of charge and funded by a FWF Top Citizen Science grant. The workshop participants were invited to build their own black solider fly rearing unit out of laser-cut wood. For approx. three weeks, this rearing unit served as home for 200 larvae. The larvae living in these units were allowed to feed on biowaste, continue their development, produce valuable fertilzer, and ultimately wander out of the box into the attached collection container to find a dry and quite place for pupation. After this experiment, participants were able to reuse their houses for decoration or as an alternative container for their biowaste.  
 
-During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic balance. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
+During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic precision scale. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
 
 ## Materials
 Here you can freely download all necessary files and information material to conduct your own “**Six-legged Livestock**” workshop:
