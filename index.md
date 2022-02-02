@@ -1,6 +1,6 @@
 **Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
 
-![rearing unit](/media/rearing_unit.png)  
+![picture of rearing unit model](/media/rearing_unit.png)  
 
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
