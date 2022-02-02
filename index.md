@@ -9,6 +9,12 @@ Während des Hausversuchs wurden die teilnehmenden Citizen Scientists angewiesen
 
 In einem weiterführenden Projekt gefördert von der Tiroler Wissenschaftsförderung (TWF) wurden gesammelte Daten und Proben der Citizen Scientists weiter analysiert und die daraus resultierenden Ergebnisse in einer frei zugänglichen Web-Applikation zusammengefasst: [**COHMILA**](https://tklammsteiner.shinyapps.io/cohmila-app)  
 
+## Ziele
+- Die breite Öffentlichkeit in die wissenschaftliche Forschung einbeziehen
+- Menschen die Möglichkeit geben, mit Insekten in Kontakt zu kommen und von Fachleuten etwas über die Entwicklung und das Potenzial der Insekten zu erfahren
+- Den negativen Vorurteilen und Ängsten gegenüber Insekten entgegenwirken
+- Sammeln und Auswerten von Daten, die von einer großen Gruppe von Workshop-Teilnehmern produziert werden, um qualitativ hochwertige Forschung zu betreiben
+
 ## Materialien
 Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchführung eines “**Six-legged Livestock**” Workshops heruntergeladen werden:  
 
@@ -26,86 +32,11 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 
 ## Danksagung
 Das Projekt wurde druch
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+
+***
+
+***
+
 [[deutsche Version]](https://tklammsteiner.github.io/sixleggedlivestock/#materialien)  
 
 ## About the project
@@ -114,6 +45,12 @@ Within this project, we organized a series of workshops open for all people inte
 During the home trial, citizen scientists were instructed to take notes on the type and amount of waste they used to feed their larvae by using the provided electronic precision scale. When approaching the end of the larval stage, participants were able to evaluate the pupation success and to determine the produced larval biomass by weighing the pupae that moved out of the box into the collection container. After completing the experiment, the collected data together with basic information about the experimental environment were delivered to us for further analysis. 
 
 In a follow-up project funded by the Tiroler Wissenschaftsförderung (TWF), data and samples collected from the Citizen Scientists were further analyzed and the resulting findings were summarized in a freely accessible web application: [**COHMILA**](https://tklammsteiner.shinyapps.io/cohmila-app)  
+
+## Aim
+- Involve the broad public in scientific research
+- Allow people to get in contact with insects and learn from specialists about the insect's development and potential
+- Counteract the negative prejudice and fear towards insects
+- Collect and evaluate data produced by a large group workshop participants to create high-quality research
 
 ## Materials
 Here you can freely download all necessary files and information material to conduct your own “**Six-legged Livestock**” workshop:
