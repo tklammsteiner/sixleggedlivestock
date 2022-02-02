@@ -1,5 +1,7 @@
 **Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
 
+![rearing unit](https://github.com/tklammsteiner/sixleggedlivestock/media/rearing_unit.png)  
+
 [[english version]](https://tklammsteiner.github.io/sixleggedlivestock/#materials)  
 
 ## Über das Projekt
@@ -67,6 +69,7 @@ Here you can freely download all necessary files and information material to con
 
 Download the [full package as .zip file](https://www.dropbox.com/s/3snub3kv7nm1rqo/sixleggedlivestock_materials.zip?dl=0) (ca. 10 mb)
 
+## Acknowledgements
 
 
 
