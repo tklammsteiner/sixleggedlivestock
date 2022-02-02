@@ -64,7 +64,7 @@ Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchf
 Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjwg/sixleggedlivestock_material.zip?dl=0) herunter (ca. 10 mb)
 
 ## Danksagung
-Das Projekt wurde druch
+Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie die Tiroler Wissenschaftsförderung (TWF) gefördert. Dank gilt auch dem [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) für die Unterstützung beim Konzipieren des Zuchtsystems.
 
 <br/>
 <br/>
@@ -114,7 +114,7 @@ Das Projekt wurde druch
 </body>
 </html>
 
-## Aim
+## Aims
 - Involve the broad public in scientific research
 - Allow people to get in contact with insects and learn from specialists about the insect's development and potential
 - Counteract the negative prejudice and fear towards insects
@@ -136,7 +136,7 @@ Here you can freely download all necessary files and information material to con
 Download the [full package as .zip file](https://www.dropbox.com/s/3snub3kv7nm1rqo/sixleggedlivestock_materials.zip?dl=0) (ca. 10 mb)
 
 ## Acknowledgements
-
+The project was funded by the Austrian Science Fund (TCS48) and the Tiroler Wissenschaftsförderung (TWF). Thanks also go to [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) for their support in designing the rearing system.
 
 
 
