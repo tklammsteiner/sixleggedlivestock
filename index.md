@@ -1,5 +1,5 @@
 <a name="deutsch"></a>
-**Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
+**Contact**: Thomas Klammsteiner, PhD ([[mail]](mailto:thomas.klammsteiner@uibk.ac.at)), Inst. für Mikrobiologie, LFU Innsbruck  
 
 [[English version]](#english) | 
 [[Website]](https://www.fromwastetofeed.com) | 
@@ -79,7 +79,7 @@ Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie d
 
 # <a name="english"></a><a href="https://tklammsteiner.github.io/sixleggedlivestock/">Six-legged livestock</a>
 
-**Contact**: Thomas Klammsteiner, PhD ([thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at))  
+**Contact**: Thomas Klammsteiner, PhD ([[mail]](mailto:thomas.klammsteiner@uibk.ac.at)), Dept. of Microbiology, LFU Innsbruck  
 
 [[Deutsche Version]](#deutsch) | 
 [[Website]](https://www.fromwastetofeed.com) | 
