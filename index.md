@@ -67,6 +67,11 @@ Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjw
 ## Danksagung
 Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie die Tiroler Wissenschaftsförderung (TWF) gefördert. Dank gilt auch dem [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) für die Unterstützung beim Konzipieren des Zuchtsystems.
 
+## Weiterführende links
+**Website**: [www.fromwastetofeed.com](https://www.fromwastetofeed.com)  
+**Instagram**: [@fromwastetofeed](https://www.instagram.com/fromwastetofeed)  
+**Twitter**: [@fromwastetofeed](https://www.twitter.com/fromwastetofeed)  
+
 <br/>
 <br/>
 
@@ -142,5 +147,8 @@ Download the [full package as .zip file](https://www.dropbox.com/s/3snub3kv7nm1r
 ## Acknowledgements
 The project was funded by the Austrian Science Fund (TCS48) and the Tiroler Wissenschaftsförderung (TWF). Thanks also go to [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) for their support in designing the rearing system.
 
-
+## Further information
+**Website**: [www.fromwastetofeed.com](https://www.fromwastetofeed.com)  
+**Instagram**: [@fromwastetofeed](https://www.instagram.com/fromwastetofeed)  
+**Twitter**: [@fromwastetofeed](https://www.twitter.com/fromwastetofeed)  
 
