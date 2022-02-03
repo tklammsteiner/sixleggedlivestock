@@ -69,6 +69,19 @@ Download the [full package as .zip file](https://www.dropbox.com/s/3snub3kv7nm1r
 
 Publication describing the concept of the school workshops: [*Sustainability*, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
 
+## Past workshop dates
+- **1<sup>st</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 21.05.2019  
+- **2<sup>nd</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 18.06.2019  
+- **3<sup>rd</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 25.07.2019  
+- **4<sup>th</sup> public workshop**. Department of Microbiology. 29.07.2019  
+- **5<sup>th</sup> public workshop**. Department of Microbiology. 10.09.2019  
+
+- **1<sup>st</sup> school workshop**. Ferrari Schule Innsbruck. 14.01.2019  
+- **2<sup>nd</sup> school workshop**. Ferrari Schule Innsbruck. 15.01.2019  
+- **3<sup>rd</sup> school workshop**. Franziskaner Gymnasium Hall. 18.02.2019  
+- **4<sup>th</sup> school workshop**. PORG Volders. 25.02.2019  
+- **5<sup>th</sup> school workshop**. BAfEP Innsbruck. 24.09.2019  
+
 ## Acknowledgements
 Involved people: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus Schermer, Heinrich Pan, Suzanne Kapelari, Heribert Insam. The project was funded by the Austrian Science Fund (TCS48) and the Tiroler Wissenschaftsförderung (TWF). Thanks also go to [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) for their support in designing the rearing system.
 
@@ -150,6 +163,19 @@ Hier können kostenlos und frei zugänglich alle nötigen Materialien zur Durchf
 Lade das [gesamte Paket als .zip datei](https://www.dropbox.com/s/2y3szlw49wgcjwg/sixleggedlivestock_material.zip?dl=0) herunter (ca. 10 mb)  
 
 Publikation zum Konzept der Schulworkshops: [*Sustainability*, 12(22), 9574, 2020](https://doi.org/10.3390/su12229574)  
+
+## Vergangene Workshop-Termine
+- **1<sup>st</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 21.05.2019  
+- **2<sup>nd</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 18.06.2019  
+- **3<sup>rd</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 25.07.2019  
+- **4<sup>th</sup> public workshop**. Department of Microbiology. 29.07.2019  
+- **5<sup>th</sup> public workshop**. Department of Microbiology. 10.09.2019  
+
+- **1<sup>st</sup> school workshop**. Ferrari Schule Innsbruck. 14.01.2019  
+- **2<sup>nd</sup> school workshop**. Ferrari Schule Innsbruck. 15.01.2019  
+- **3<sup>rd</sup> school workshop**. Franziskaner Gymnasium Hall. 18.02.2019  
+- **4<sup>th</sup> school workshop**. PORG Volders. 25.02.2019  
+- **5<sup>th</sup> school workshop**. BAfEP Innsbruck. 24.09.2019  
 
 ## Danksagung
 Beteiligte Personen: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus Schermer, Heinrich Pan, Suzanne Kapelari, Heribert Insam. Das Projekt wurde durch den Österreichischen Wissenschaftsfonds (TCS48) sowie die Tiroler Wissenschaftsförderung (TWF) gefördert. Dank gilt auch dem [Spielraum FabLab Innsbruck](https://www.fablab.spielraumfueralle.at) für die Unterstützung beim Konzipieren des Zuchtsystems.
