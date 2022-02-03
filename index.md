@@ -76,6 +76,7 @@ Publication describing the concept of the school workshops: [*Sustainability*, 1
 - **4<sup>th</sup> public workshop**. Department of Microbiology. 29.07.2019  
 - **5<sup>th</sup> public workshop**. Department of Microbiology. 10.09.2019  
 
+
 - **1<sup>st</sup> school workshop**. Ferrari Schule Innsbruck. 14.01.2019  
 - **2<sup>nd</sup> school workshop**. Ferrari Schule Innsbruck. 15.01.2019  
 - **3<sup>rd</sup> school workshop**. Franziskaner Gymnasium Hall. 18.02.2019  
@@ -170,6 +171,7 @@ Publikation zum Konzept der Schulworkshops: [*Sustainability*, 12(22), 9574, 202
 - **3<sup>rd</sup> public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 25.07.2019  
 - **4<sup>th</sup> public workshop**. Department of Microbiology. 29.07.2019  
 - **5<sup>th</sup> public workshop**. Department of Microbiology. 10.09.2019  
+
 
 - **1<sup>st</sup> school workshop**. Ferrari Schule Innsbruck. 14.01.2019  
 - **2<sup>nd</sup> school workshop**. Ferrari Schule Innsbruck. 15.01.2019  
