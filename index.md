@@ -40,7 +40,7 @@
 	</p>
    </div>
   <div class="column">
-   <img src="https://tklammsteiner.github.io/sixleggedlivestock/media/Bild1.gif" alt="COHMILA animation">
+   <img src="https://tklammsteiner.github.io/sixleggedlivestock/media/animation.gif" alt="COHMILA animation">
   </div>
 </div> 
 </body>
@@ -135,7 +135,7 @@ Involved people: Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Markus S
     </p>
    </div>
   <div class="column">
-   <img src="https://tklammsteiner.github.io/sixleggedlivestock/media/Bild1.gif" alt="COHMILA animation">
+   <img src="https://tklammsteiner.github.io/sixleggedlivestock/media/animation.gif" alt="COHMILA animation">
   </div>
 </div> 
 </body>
